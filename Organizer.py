@@ -3,7 +3,7 @@ from tkinter import filedialog
 from tkinter import *
 import os
 import shutil
-
+#formatting
 formats = {
     "video_formats" : [".mp4", ".m4a", ".m4v", ".f4v", ".f4a", ".m4b", ".m4r", ".f4b", ".mov", ".3gp", ".wmv", ".avi"],
     "doc_formats" : [".doc", ".docx", ".ppt", ".pptx", ".xlsx", ".xls", ".txt", ".csv", ".dif", ".pdf",".vcf"],
